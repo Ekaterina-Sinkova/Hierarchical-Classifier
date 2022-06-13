@@ -1,4 +1,4 @@
-# Hierarchical-Classifier
+# Hierarchical-Classifier (NLP, SVM linear model)
 Тестовое задание для стажировки в KazanExpress
 
 ## Задача
